@@ -1,0 +1,2 @@
+2019-02-06T16:02:09.726Z [32minfo[39m: ::1 - - [06/Feb/2019:16:02:09 +0000] "POST /books HTTP/1.1" 400 1769 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+2019-02-06T16:02:15.148Z [32minfo[39m: ::1 - - [06/Feb/2019:16:02:15 +0000] "GET /books HTTP/1.1" 200 338 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
